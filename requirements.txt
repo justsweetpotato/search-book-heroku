@@ -5,7 +5,7 @@ Django==2.2.13
 gunicorn==19.9.0
 hanziconv==0.3.2
 idna==2.8
-lxml==4.4.1
+lxml==4.6.3
 pytz==2019.2
 requests==2.22.0
 sqlparse==0.3.0
