@@ -1,7 +1,7 @@
 certifi==2019.9.11
 chardet==3.0.4
 dj-static==0.0.6
-Django==2.2.13
+Django==2.2.24
 gunicorn==19.9.0
 hanziconv==0.3.2
 idna==2.8
